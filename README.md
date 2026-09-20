@@ -1,5 +1,9 @@
 # TEACHBACK
 
+## Live Demo
+
+🚀 **[Launch TeachBack](https://teachback.streamlit.app/)**
+
 ### Don't learn from AI. Teach it.
 
 TeachBack is an interactive learning experience where students learn by teaching an AI learner.
