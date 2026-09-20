@@ -1,0 +1,37 @@
+{
+    "BYTE": {
+        "name": "BYTE",
+        "title": "The Beginner",
+        "type": "BEGINNER",
+        "tagline": "I'm still figuring things out.",
+        "description": "BYTE is curious, enthusiastic, and sometimes confidently confused. BYTE makes simpler mistakes, misunderstands fundamentals, and isn't afraid to ask, \"wait... why?\"",
+        "role": "Help BYTE build a stronger understanding.",
+        "traits": ["Friendly", "Curious", "Fundamental"],
+        "style": "bright",
+        "accent": "cyan"
+    },
+
+    "NOVA": {
+        "name": "NOVA",
+        "title": "The Confident One",
+        "type": "CONFIDENT",
+        "tagline": "I already know the answer.",
+        "description": "NOVA is confident. Sometimes too confident. NOVA's mistakes aren't always obvious and can sound completely convincing while being fundamentally wrong.",
+        "role": "Challenge NOVA. Find the flaw. Prove it.",
+        "traits": ["Cocky", "Challenging", "Misconception Hunter"],
+        "style": "neon",
+        "accent": "purple"
+    },
+
+    "ECHO": {
+        "name": "ECHO",
+        "title": "The Memorizer",
+        "type": "ANALYTICAL",
+        "tagline": "I remember the theory. Test my reasoning.",
+        "description": "ECHO remembers definitions and patterns, but struggles when the situation changes. ECHO doesn't make obvious mistakes.",
+        "role": "Go beyond memorization. Test whether ECHO can actually apply what it knows.",
+        "traits": ["Analytical", "Serious", "Application"],
+        "style": "dark",
+        "accent": "white"
+    }
+}
