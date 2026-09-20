@@ -1,4 +1,4 @@
-# TeachBack
+# TEACHBACK
 
 ### Don't learn from AI. Teach it.
 
@@ -24,23 +24,23 @@ The learner makes a mistake, and the student has to understand the concept well 
 
 ## How It Works
 
-### 01 — Find the Mistake
+### 01  Find the Mistake
 
 The learner gives an incorrect explanation.
 
 The student identifies the misconception behind it.
 
-### 02 — Teach the Learner
+### 02  Teach the Learner
 
 The student chooses the explanation that correctly addresses the misconception.
 
-### 03 — Test the Understanding
+### 03  Test the Understanding
 
 The learner encounters a new situation involving the same concept.
 
 The student decides whether the learner has actually understood the concept.
 
-### 04 — Learning Profile
+### 04  Learning Profile
 
 The session ends with a profile showing the student's performance across the missions.
 
@@ -261,4 +261,4 @@ TeachBack approaches learning through teaching: instead of asking an AI for the 
 
 ## Project Status
 
-**Working prototype — ready for demonstration.**
+**Working prototype  ready for demonstration.**
