@@ -195,6 +195,8 @@ The developer is responsible for the final project concept, implementation, inte
 
 ## Limitations
 
+Deployment limitation: The free Streamlit Community Cloud deployment may enter sleep mode after inactivity. Visitors may need to click “Wake this app” before accessing the live demo.
+
 The current version is a focused prototype.
 
 It contains a limited number of concepts and three learner personalities.
